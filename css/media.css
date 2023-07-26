@@ -1,0 +1,7 @@
+@media screen and (max-width:700px)
+{
+    #ocultar{display: none;}
+    #ocultar2{display: none;}
+    .article1{width: 32vw;}
+    .articlec{width: 34vw;}
+}
